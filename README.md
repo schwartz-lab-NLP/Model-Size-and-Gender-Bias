@@ -2,6 +2,14 @@
 
 Code for ["Fewer Errors, but More Stereotypes? The Effect of Model Size on Gender Bias"](https://arxiv.org/abs/2206.09860) by Yarden Tal, Inbal Magar and Roy Schwartz, 4rd Workshop on Gender Bias in Natural Language, NAACL 2022.
 
+## Setup
+
+The code is implemented in python 3.7.3 using Hugging Face's transformers. To run it, please install the requirements.txt file:
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Cite
 ```bash
 @inproceedings{Tal:2022,
